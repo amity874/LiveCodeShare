@@ -3,7 +3,7 @@ module.exports = {
     mailer: {
         service: 'Gmail',
         auth: {
-            user: 'amity552000@gmail.com',
+            user: 'abstract552000@gmail.com',
             pass: 'infiniteloop'
         }
     },
